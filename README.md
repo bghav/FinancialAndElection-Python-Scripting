@@ -16,6 +16,8 @@ A Python script was created to analyze the financial records to calculate each o
 -The greatest increase in profits (date and amount) over the entire period
 -The greatest decrease in losses (date and amount) over the entire period
 
+![image](https://user-images.githubusercontent.com/80291594/133354428-d0a74743-e66e-468e-b486-55f1ce14ef75.png)
+
 # PyPoll
 
 In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
@@ -27,3 +29,5 @@ A Python script was created to analyze the votes and calculates each of the foll
 -The percentage of votes each candidate won
 -The total number of votes each candidate won
 -The winner of the election based on popular vote.
+
+![image](https://user-images.githubusercontent.com/80291594/133354616-cef56c7f-bfc0-4302-9f56-5f7acdfde291.png)
