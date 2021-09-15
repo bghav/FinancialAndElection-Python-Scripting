@@ -9,6 +9,7 @@ In this challenge, you are tasked with creating a Python script for analyzing th
 The dataset is composed of two columns: Date and Profit/Losses.
 
 A Python script was created to analyze the financial records to calculate each of the following:
+![image](https://user-images.githubusercontent.com/80291594/133361775-cbe3b605-8123-4f6c-8a19-e06703bcec48.png)
 
 -The total number of months included in the dataset
 -The net total amount of "Profit/Losses" over the entire period
